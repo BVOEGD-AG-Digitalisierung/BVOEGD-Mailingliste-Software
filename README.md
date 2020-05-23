@@ -1,5 +1,5 @@
 # Mailingliste ÖGD-Software 
-Der ÖGD braucht gute Software. Hier kann darüber diskutiert werden. Welches Amt setzt welche Software ein? Welche Funktionalitäten sind notwendig? Wie ist der Datenschutz zu bewerten? Wie ist die Gebrauchstauglichkeit? Das sind Themen für die Mailingliste. Außerdem: Der BVÖGD Vorstand braucht Sachverstand zur Einschätzung von Software-Themen und Softwarehersteller brauchen Rückmeldung zu ihren Produkte.
+Der Öffentliche Gesundheitsdienst (ÖGD) braucht gute Software. Hier kann darüber diskutiert werden. Welches Amt setzt welche Software ein? Welche Funktionalitäten sind notwendig? Wie ist der Datenschutz zu bewerten? Wie ist die Gebrauchstauglichkeit? Das sind Themen für die Mailingliste. Außerdem: Der BVÖGD Vorstand braucht Sachverstand zur Einschätzung von Software-Themen und Softwarehersteller brauchen Rückmeldung zu ihren Produkte.
 
 * Anmelden: [Nachricht](https://groups.google.com/forum/#!contactowner/oegd-software) an die/den Sprecher/in der AG-Digitalisierung 
 * Abmelden: In jeder Nachricht ist ein individueller Abmeldelink enthalten.
