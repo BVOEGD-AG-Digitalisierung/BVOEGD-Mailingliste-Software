@@ -6,15 +6,15 @@ Der ÖGD braucht gute Software. Hier kann darüber diskutiert werden. Welches Am
 * Anmelden: [Nachricht](https://groups.google.com/forum/#!contactowner/oegd-software) an die/den Sprecher/in der AG-Digitalisierung 
 * Abmelden: In jeder Nachricht ist ein individueller Abmeldelink enthalten.
 
-# Wer ist die Zielgruppe
+# Häufige Fragen und Antworten
+
+## Wer ist die Zielgruppe der Mailingliste?
 * BVÖGD-Mitglieder
 * Personen, die im ÖGD arbeiten
 * Personen die ein berechtigtes Interesse haben
 
-# Wer betreibt die Mailingliste
-Die AG-Digitalisierung des BVÖGD
-
-# Häufige Fragen und Antworten
+## Wer betreibt die Mailingliste?
+Die AG-Digitalisierung des [BVÖGD](https://www.bvoegd.de/)
 
 ## Ich würde gerne eine Software vorstellen. Wie geht das?
 - Es werden maximal 2 Software pro Woche vorgestellt
@@ -27,8 +27,7 @@ Für die Technik der Mailingliste wird Googlegroups benutzt. Googlegroups ist ve
 
 
 # Weitere Informationen
-- [Webseite BVÖGD](https://www.bvoegd.de/)
-- [Twitter BVÖGD](https://twitter.com/bvoegd)
+
 
 
 
